@@ -1,5 +1,5 @@
 
-# 🚀 Transformer-based Summarization Model
+# 🚀 Transformer Based LLM Summarization Model
 
 A cutting-edge transformer architecture designed for dialogue summarization, developed with PyTorch.
 
